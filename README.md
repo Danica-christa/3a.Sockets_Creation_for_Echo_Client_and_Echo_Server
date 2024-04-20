@@ -45,6 +45,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
       print('Received', repr(data.decode()))
 ```
 ## OUPUT
+## client
+
+![Screenshot 2024-04-20 125649](https://github.com/Danica-christa/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/151514009/31a08762-33df-40db-b866-651b375597df)
+## server
 
 ![Screenshot 2024-04-20 125403](https://github.com/Danica-christa/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/151514009/41ff5777-f6ba-4d5c-8d4b-ad2e1420f5d0)
 
